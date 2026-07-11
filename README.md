@@ -143,9 +143,3 @@ jupyter
 - Add more health parameters (cholesterol, activity level, diet)
 - Explore deep learning approaches
 - Handle class imbalance using SMOTE
-
----
-
----
-
-> ⭐ If you found this project helpful, feel free to star the repository!
